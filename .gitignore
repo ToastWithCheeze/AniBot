@@ -1,3 +1,6 @@
+# My own temp files stuff i usually like to have
+temp.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
