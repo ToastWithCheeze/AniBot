@@ -12,6 +12,10 @@ query ($search: String, $id: Int) {
       english
     }
     description
+    nextAiringEpisode {
+      episode
+      airingAt
+    }
   }
 }
 '''
