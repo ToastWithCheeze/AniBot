@@ -12,4 +12,8 @@ python main.py
 ```
 
 # Todo
+~~Add next Episode airing time and episode~~
+
 Integrate the code into an discord bot
+
+Make Docker Image for the bot?
