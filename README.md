@@ -10,3 +10,6 @@ python3 main.py
 ```
 python main.py
 ```
+
+# Todo
+Integrate the code into an discord bot
