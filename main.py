@@ -11,7 +11,7 @@ parserDesc = bs4.BeautifulSoup(description, "html.parser")
 outputDescription = parserDesc.get_text()
 
 
-print('\nNative: ' + romaji)
-print('Romaji: ' + native)
+print('\nNative: ' + native)
+print('Romaji: ' + romaji)
 print('English: '+ english)
 print('Description: \n' + outputDescription)
