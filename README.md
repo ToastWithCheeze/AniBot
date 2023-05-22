@@ -14,6 +14,9 @@ python main.py
 # Todo
 ~~Add next Episode airing time and episode~~
 
+Convert UnixTimeStamp to the normal one
+
 Integrate the code into an discord bot
 
 Make Docker Image for the bot?
+
