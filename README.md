@@ -1,4 +1,4 @@
-# Install dependencies (WIP)
+# Install dependencies (WIP/Doing this when i feel for doing it)
 ```
 pip install -r requirements.txt
 ```
